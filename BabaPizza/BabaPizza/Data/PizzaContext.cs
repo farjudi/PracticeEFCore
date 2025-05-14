@@ -18,7 +18,7 @@ namespace BabaPizza.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
-            options.UseSqlite("Data Source =babapizza.db");
+            options.UseSqlite("Data Source =babaPizza.db");
         }
     }
 }

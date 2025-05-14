@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BabaPizza.Migrations
 {
     [DbContext(typeof(PizzaContext))]
-    [Migration("20250514044418_InitialCreate")]
+    [Migration("20250514055026_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -22,7 +22,7 @@ namespace BabaPizza.Migrations
 
             modelBuilder.Entity("BabaPizza.Models.Customer", b =>
                 {
-                    b.Property<int>("id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
@@ -42,7 +42,7 @@ namespace BabaPizza.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.HasKey("id");
+                    b.HasKey("Id");
 
                     b.ToTable("Customers");
                 });

@@ -3,9 +3,11 @@ using System;
 using BabaPizza.Service;
 using BabaPizza.Data;
 using BabaPizza.Models;
+using System.Data;
+using Microsoft.EntityFrameworkCore;
 
-namespace resturantBabaPizza;
-class Baba_Piza
+namespace restaurantBabaPizza;
+class Baba_Pizza
 {
     static void Main(string[] args)
     {
@@ -14,6 +16,7 @@ class Baba_Piza
 
         while (!exit)
         {
+
             Console.Clear();
             Console.WriteLine(" BabaPizza Management System");
             Console.WriteLine("1. Manage Products");
@@ -30,13 +33,13 @@ class Baba_Piza
                     ManageProducts();
                     break;
 
-                    case "2":
+                case "2":
                     break;
-                case "3":break; 
+                case "3": break;
                 case "4":
                     exit = true;
                     break;
-                    
+
             }
 
         }
@@ -53,8 +56,9 @@ class Baba_Piza
 
         while (!back)
         {
+
             Console.Clear();
-            Console.WriteLine("📦 Product Management");
+            Console.WriteLine(" Product Management");
             Console.WriteLine("1. Add Product");
             Console.WriteLine("2. List Products");
             Console.WriteLine("3. Update Product");
@@ -67,8 +71,116 @@ class Baba_Piza
                 case "1":
                     AddProduct(service);
                     break;
+                case "2":
+                    GetProductById(service);
+                    break;
+                case "3":
+                    UpdateProducts(service);
+                    break;
+                case "4":
+                    DeleteProduct(service);
+                    break;
+                case "5": back = true; break;
             }
         }
+    }
+
+    private static void DeleteProduct(ProductService service)
+    {
+        Console.WriteLine("Enter the ID of the product you want to delete: ");
+        if(int.TryParse(Console.ReadLine(), out int  Id))
+        {
+            var product= service.GetProductById(Id);
+            if (product != null)
+            {
+                Console.WriteLine($"\nAre you sure you want to delete this product?");
+                Console.WriteLine($" {product.Id}: {product.Name} - ${product.Price}");
+                Console.Write("Type 'yes' to confirm: ");
+
+                string confirmation = Console.ReadLine();
+                if (confirmation?.Trim().ToLower() == "yes")
+                {
+                    service.DeleteProduct(Id);
+                    Console.WriteLine(" Product deleted successfully!");
+                }
+                else
+                {
+                    Console.WriteLine(" Deletion canceled.");
+                }
+            }
+            else
+            {
+                Console.WriteLine(" No product found with that ID.");
+            }
+        }
+        else
+        {
+            Console.WriteLine(" Invalid input. Please enter a valid number.");
+        }
+        Console.WriteLine("\nPress Enter to continue...");
+        Console.ReadLine();
+    }
+
+    private static void UpdateProducts(ProductService service)
+    {
+        Console.Write(" Enter the ID of the product you want to update: ");
+
+        if (int.TryParse(Console.ReadLine(), out int id))
+        {
+            var existingProduct = service.GetProductById(id);
+            if (existingProduct != null)
+            {
+                Console.WriteLine($"\nCurrent Name: {existingProduct.Name}");
+                Console.WriteLine($"Current Price: {existingProduct.Price}");
+
+                Console.Write("Enter new name (leave blank to keep current): ");
+                string newName = Console.ReadLine();
+                if (!string.IsNullOrWhiteSpace(newName))
+                    existingProduct.Name = newName;
+                Console.Write(" Enter new price (leave blank to keep current): ");
+                string priceInput = Console.ReadLine();
+                if (!string.IsNullOrWhiteSpace(priceInput) && decimal.TryParse(priceInput, out decimal newPrice))
+                    existingProduct.Price = newPrice;
+
+                service.UpdateProduct(existingProduct);
+
+            }
+            else
+            {
+                Console.WriteLine("No product found with that ID.");
+            }
+        }
+        else
+        {
+            Console.WriteLine(" Invalid ID input.");
+        }
+        Console.ReadLine();
+    }
+
+    private static void GetProductById(ProductService service)
+    {
+        Console.Write(" Enter the Product ID to search: ");
+        if (int.TryParse(Console.ReadLine(), out int id))
+        {
+            var product = service.GetProductById(id);
+
+            if (product != null)
+            {
+                Console.WriteLine($"\n Product Found:");
+                Console.WriteLine($"ID: {product.Id}");
+                Console.WriteLine($"Name: {product.Name}");
+                Console.WriteLine($"Price: ${product.Price}");
+            }
+            else
+            {
+                Console.WriteLine(" No product found with that ID.");
+            }
+        }
+        else
+        {
+            Console.WriteLine(" Invalid input. Please enter a valid number.");
+        }
+        Console.ReadKey();
     }
 
     private static void AddProduct(ProductService service)
@@ -77,10 +189,9 @@ class Baba_Piza
         Console.WriteLine("product name:");
         var name = Console.ReadLine();
         Console.WriteLine("product price:");
-        var price =decimal.Parse( Console.ReadLine());
+        var price = decimal.Parse(Console.ReadLine());
         var product = new Product
         {
-            Id=1,
             Name = name,
             Price = price
         };

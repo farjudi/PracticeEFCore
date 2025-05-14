@@ -19,7 +19,7 @@ namespace BabaPizza.Migrations
 
             modelBuilder.Entity("BabaPizza.Models.Customer", b =>
                 {
-                    b.Property<int>("id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
@@ -39,7 +39,7 @@ namespace BabaPizza.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.HasKey("id");
+                    b.HasKey("Id");
 
                     b.ToTable("Customers");
                 });

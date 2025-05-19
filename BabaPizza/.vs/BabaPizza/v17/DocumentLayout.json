@@ -1,0 +1,371 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|c:\\users\\fatemeh\\desktop\\practiceefc\\babapizza\\babapizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|solutionrelative:babapizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|c:\\users\\fatemeh\\desktop\\practiceefc\\babapizza\\babapizza\\ui\\manageorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|solutionrelative:babapizza\\ui\\manageorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|c:\\users\\fatemeh\\desktop\\practiceefc\\babapizza\\babapizza\\ui\\manageproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|solutionrelative:babapizza\\ui\\manageproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|c:\\users\\fatemeh\\desktop\\practiceefc\\babapizza\\babapizza\\ui\\managecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|solutionrelative:babapizza\\ui\\managecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|c:\\users\\fatemeh\\desktop\\practiceefc\\babapizza\\babapizza\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|solutionrelative:babapizza\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|c:\\users\\fatemeh\\desktop\\practiceefc\\babapizza\\babapizza\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|solutionrelative:babapizza\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|c:\\users\\fatemeh\\desktop\\practiceefc\\babapizza\\babapizza\\service\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|solutionrelative:babapizza\\service\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|c:\\users\\fatemeh\\desktop\\practiceefc\\babapizza\\babapizza\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|solutionrelative:babapizza\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|c:\\users\\fatemeh\\desktop\\practiceefc\\babapizza\\babapizza\\data\\pizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|solutionrelative:babapizza\\data\\pizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|c:\\users\\fatemeh\\desktop\\practiceefc\\babapizza\\babapizza\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|solutionrelative:babapizza\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|c:\\users\\fatemeh\\desktop\\practiceefc\\babapizza\\babapizza\\service\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|solutionrelative:babapizza\\service\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|c:\\users\\fatemeh\\desktop\\practiceefc\\babapizza\\babapizza\\service\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|solutionrelative:babapizza\\service\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|c:\\users\\fatemeh\\desktop\\practiceefc\\babapizza\\babapizza\\service\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|solutionrelative:babapizza\\service\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|c:\\users\\fatemeh\\desktop\\practiceefc\\babapizza\\babapizza\\service\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|solutionrelative:babapizza\\service\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|c:\\users\\fatemeh\\desktop\\practiceefc\\babapizza\\babapizza\\babapizza.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|solutionrelative:babapizza\\babapizza.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|c:\\users\\fatemeh\\desktop\\practiceefc\\babapizza\\babapizza\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|solutionrelative:babapizza\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|c:\\users\\fatemeh\\desktop\\practiceefc\\babapizza\\babapizza\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|solutionrelative:babapizza\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|c:\\users\\fatemeh\\desktop\\practiceefc\\babapizza\\babapizza\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|solutionrelative:babapizza\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|c:\\users\\fatemeh\\desktop\\practiceefc\\babapizza\\babapizza\\babapizza.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|solutionrelative:babapizza\\babapizza.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|c:\\users\\fatemeh\\desktop\\practiceefc\\babapizza\\babapizza\\migrations\\20250514055026_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5634D1A3-8D46-452E-99B1-3EEE2EE9A0D0}|BabaPizza\\BabaPizza.csproj|solutionrelative:babapizza\\migrations\\20250514055026_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 528,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Service\\OrderService.cs",
+              "RelativeDocumentMoniker": "BabaPizza\\Service\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Service\\OrderService.cs",
+              "RelativeToolTip": "BabaPizza\\Service\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T05:39:52.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "BabaPizza\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Service\\ProductService.cs",
+              "RelativeToolTip": "BabaPizza\\Service\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:47:14.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\UI\\ManageCustomer.cs",
+              "RelativeDocumentMoniker": "BabaPizza\\UI\\ManageCustomer.cs",
+              "ToolTip": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\UI\\ManageCustomer.cs",
+              "RelativeToolTip": "BabaPizza\\UI\\ManageCustomer.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowJ8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:48:45.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManageOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\UI\\ManageOrder.cs",
+              "RelativeDocumentMoniker": "BabaPizza\\UI\\ManageOrder.cs",
+              "ToolTip": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\UI\\ManageOrder.cs",
+              "RelativeToolTip": "BabaPizza\\UI\\ManageOrder.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:56:18.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\UI\\ManageProduct.cs",
+              "RelativeDocumentMoniker": "BabaPizza\\UI\\ManageProduct.cs",
+              "ToolTip": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\UI\\ManageProduct.cs",
+              "RelativeToolTip": "BabaPizza\\UI\\ManageProduct.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIAxwI8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T03:14:00.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Program.cs",
+              "RelativeDocumentMoniker": "BabaPizza\\Program.cs",
+              "ToolTip": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Program.cs",
+              "RelativeToolTip": "BabaPizza\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T04:44:11.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericService.cs",
+              "DocumentMoniker": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Service\\GenericService.cs",
+              "RelativeDocumentMoniker": "BabaPizza\\Service\\GenericService.cs",
+              "ToolTip": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Service\\GenericService.cs",
+              "RelativeToolTip": "BabaPizza\\Service\\GenericService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:04:45.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Service\\CustomerService.cs",
+              "RelativeDocumentMoniker": "BabaPizza\\Service\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Service\\CustomerService.cs",
+              "RelativeToolTip": "BabaPizza\\Service\\CustomerService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T05:19:29.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PizzaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Data\\PizzaContext.cs",
+              "RelativeDocumentMoniker": "BabaPizza\\Data\\PizzaContext.cs",
+              "ToolTip": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Data\\PizzaContext.cs",
+              "RelativeToolTip": "BabaPizza\\Data\\PizzaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T04:56:06.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "BabaPizza\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Models\\Order.cs",
+              "RelativeToolTip": "BabaPizza\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T04:56:39.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Service\\Interfaces\\IGenericService.cs",
+              "RelativeDocumentMoniker": "BabaPizza\\Service\\Interfaces\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Service\\Interfaces\\IGenericService.cs",
+              "RelativeToolTip": "BabaPizza\\Service\\Interfaces\\IGenericService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:48:40.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Service\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "BabaPizza\\Service\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Service\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "BabaPizza\\Service\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:47:42.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Service\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "BabaPizza\\Service\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Service\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "BabaPizza\\Service\\Interfaces\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:47:23.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Service\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "BabaPizza\\Service\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Service\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "BabaPizza\\Service\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:48:05.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "babaPizza.db",
+              "DocumentMoniker": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\babaPizza.db",
+              "RelativeDocumentMoniker": "BabaPizza\\babaPizza.db",
+              "ToolTip": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\babaPizza.db",
+              "RelativeToolTip": "BabaPizza\\babaPizza.db",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAR7SURBVFhH5VZbU1tVFP5ScwJhaEnBmlKKYgkwQIdptQ7XcHPGB2cc7ahjncH3\u002BlT/gY5/wFvRF5kxMgkdLzP1oTMyVJBwKZ06baWFNlySlE5Ki4AoNwMkx7X32Sc5Sc6JJj70we9kZa99WWt9e\u002B21T4LHClmWhfb4YBJtAtxuN2fGCMaF\u002BvQwJXlM7SvTMiSLtBYOhzvePXv2JneYKRiBSCSSInta2UuWPTkajcoej0cOBoPylz09v3d//sUJ4dIQ\u002B0SbAL4bAjlEhElEkWgkQq1GohEQmZiw9QyFhYXoaO\u002BwSZJ56Hx3d1oSaQkkIz6qe3IxMHIFBQfQ2tpqM5uloU8/O29IIi0BfRoEdd5gAR0HJ7E/Px/NTY02yWweElMpMCAgFIaYbkQnddzlcqG3txd9fX3o7\u002B9HeHfHJqZSoJvLr1wu\u002BZ2uLtqFcqYMrNoVkAljKBpFZ26opc/aH2uaDcgwP2GG2\u002BPGe\u002BfO6cbSzYA2Bfya0RN6sIjLQ17Q9cKf6xu49OMAAsFgPLhAQYENNpsQoWvcpcCwBpiNumsefHgUJikXI\u002BMTuNQ/gLyCgxj0jvN5jpQg8QGjomb4h1vAdmdCSXExJMmCsnIHIOWg9Fg5jhwtRW6eleaV7DAkh1H7WRBgX4A/EETP1x54vv8BRU8e4tkuO\u002BaA/XAx6Sa670Vwf3uRZye0qJBQQMaamGom9aBPgBlQsDu\u002BGVTV1KKptR2V1TWYvXsH18a8\u002BGV8FPMzPpRXVuFUQyOKS47S2llhrUAbMrsjoI\u002BzqRH3A/N4uBjC3u4uVn9bwpk3TpO8hrWVZZ6FhWAA\u002ByK7aGlqUK0TozMYx09XAzJyLBIOFRVie2tLKQeORG/WvDwsr6xiJ7xDPSV4cryMM6B4MMF7ZQJmaz7KHZWwWCwofMqOC99d5HKQ14QJdnsx7CWlGKG1esHZSHZHQIbVlRVYuBfAmPdn\u002BKanUUV10ED1UO9sQ0VVNeaoDq5NjME/O0NrHfj19hRGr1xVnAgonjIlIAzY9et0NuHM6VewsrxEOTHhEVV7YH6OH8kq1cHbr7\u002BKZ0pLKANXcXfOj9CjJfRe\u002BAaDwyNsJ9xPmgQYZ0BhDhwhEqzd2tzC/YUgArM\u002BRMPbCPrneWGGHjzkV7Du5As48TzJc6dQW3eSj6lxszyCRLS3NGKNsvDySy\u002BipbGek\u002Bh0NsMfvIecXCsVoxXDPw3AO3gZuVYr/SvKxeTtacU4cwJCiUHGs2VP8\u002BDsJzaHCrKzzUnZOYwD\u002B/OVbGmM1Bpa31jX9PWhS4AzULxq9AQ1hrrjtdj5axubGxtobuvgL63NzQ3s7oTR3FDP12RdhGowVYxQQpmYmryByRvXcevmdfimbvHsqEiTgH9fA7qgdWxtR6sTXW\u002B9SS8tG6orHFzvpDEVGR9B\u002Bvg0KQInL2NB647XiF4cWRBgBkKYrgbkosxkBGZkAMMaYCZqsIwDJiGdvS4BlTH9r//PwpDuCGK/cVp89PEnZCNSzh6RisQx4VhnLDZOvtT\u002Bhx\u002B8rxvr/w7gb\u002BcAxC3O4D5DAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-05-18T04:28:58.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "BabaPizza\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Models\\Customer.cs",
+              "RelativeToolTip": "BabaPizza\\Models\\Customer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvw0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T04:54:18.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BabaPizza\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Models\\Product.cs",
+              "RelativeToolTip": "BabaPizza\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T04:56:58.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "BabaPizza\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "BabaPizza\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T04:57:24.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BabaPizza.csproj",
+              "DocumentMoniker": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\BabaPizza.csproj",
+              "RelativeDocumentMoniker": "BabaPizza\\BabaPizza.csproj",
+              "ToolTip": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\BabaPizza.csproj",
+              "RelativeToolTip": "BabaPizza\\BabaPizza.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T05:39:03.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250514055026_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Migrations\\20250514055026_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BabaPizza\\Migrations\\20250514055026_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Fatemeh\\Desktop\\practiceEFC\\BabaPizza\\BabaPizza\\Migrations\\20250514055026_InitialCreate.cs",
+              "RelativeToolTip": "BabaPizza\\Migrations\\20250514055026_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:52:49.929Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 303,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
